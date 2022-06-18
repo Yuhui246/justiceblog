@@ -13,6 +13,18 @@ The information presented by the first event map usually includes the number of 
 ### A Warning Map
 The second is an timely warning map. As can be seen from the name, the difference between it and the previous map is that the map displays disaster warnings, which are updated information in time, rather than how many disasters have occurred in this area in history. The direction of this kind of map is to provide some notifications for people who may be affected by the disaster, so that they can know the local situation in time and reduce losses.
 
+### Relevant Websites
+[EM-DAT](https://public.emdat.be/mapping/subcountry)  | The international disasters database: a mapping product on their own website
+[Natural Disasters](https://ourworldindata.org/natural-disasters) by Hannah Ritchie and Max Roser: use data from EM-DAT, detailed analysis
+【Display disaster types with cute icons ↓ location, detail information button】
+[Global Disaster Data Platform](https://www.gddat.cn/newGlobalWeb/#/PreviewNewDisaster): a chinese website, thought it's not good-looking, the information is clear
+[Emergency and Disaster Information Service](https://rsoe-edis.org/eventMap) : history event mark, changeable basemap, icon layer display
+[Natural Hazards Viewer](https://www.ncei.noaa.gov/maps/hazards/)by National Centers for Environmental Information: layers, different shape dots, colors, location, external link to pages
+【map and policy】
+[MTC/ABAG Hazard Viewer Map](https://mtc.maps.arcgis.com/apps/webappviewer/index.html?id=4a6f3f1259df42eab29b35dfcd086fc8): a project in San Francisco, related to [policy making](https://abag.ca.gov/our-work/resilience/data-research)
+https://mtc.maps.arcgis.com/apps/mapviewer/index.html: layers, dots, scale, intensity
+【alerts information】
+[GDACS](https://gdacs.org/) Global Disaster Alert and Coordination System: disaster alert, timely information
 
 
 ## Mapping Plan and reflections
