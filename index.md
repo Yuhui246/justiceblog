@@ -1,3 +1,5 @@
+# Mapping Natural Disasters
+
 ## Previous Mapping Efforts
 
 There are two main directions of exploration for mapping projects about global natural disasters. One is a natural disaster map as **a historical event map**, and the other is a natural disaster map as **a warning map**. 
