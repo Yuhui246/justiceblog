@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Natural Disasters Map
 
-You can use the [editor on GitHub](https://github.com/Yuhui246/justiceblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This blog includes a summary of previous mapping efforts on global natural disasters and a plan for my own story map on this topic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Previous Mapping Efforts
 
-### Markdown
+  There are two main directions of exploration for mapping projects about global natural disasters. One is a natural disaster map as a historical event map, and the other is a natural disaster map as a warning map. 
+  The information presented by the first event map usually includes the number of events that occurred in a certain region in a certain period of time. This indicator can be represented by a number on the area layout or by a shade of color. Many event maps directly point out the location of the disaster with a small icon at the specific location. Usually clicking on each icon can also display the specific information of the event, including the type of disaster, the local time, the number of victims, etc., and there will be specific links to the event report in more detail. However, marking the number and location of all disasters is only a preliminary information expression. If you only want to see one layer of information on the map, for example, you only want to see the distribution of earthquakes, this is usually done through showing them in layers. There are also related representations for different types of specific disasters, such as earthquakes, and more detailed information will include earthquake magnitude, earthquake region, and aftershocks. The layers in a layered interactive map can also be represented by several maps, to ensure that I can let my readers grasp the information I want to convey, not just an exploration of the interface. A basic function of these maps is to let readers know the distribution of global disasters and related information about disasters, so as to attract people's attention. Other specific intervention directions are not very clear. 
+  The second is an timely warning map. As can be seen from the name, the difference between it and the previous map is that the map displays disaster warnings, which are updated information in time, rather than how many disasters have occurred in this area in history. The direction of this kind of map is to provide some notifications for people who may be affected by the disaster, so that they can know the local situation in time and reduce losses.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Mapping Plan and reflections
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuhui246/justiceblog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  In my project, the first thing I need to think about is which region I am mapping. Although initially I planned to do a global disaster distribution, it was not practical to do such a large scale because of the data volume and time of the project. So I will consider narrowing down the scope to countries or regions, but I have not yet decided which specific location to choose. I will just decide it as early as possible and then accurately express it on the map in the final project. Second, I need to consider the type of disaster. After searching for relevant data, I finally decided to use the data from the EM-DAT website, and their hazard classification is very detailed. By looking at other indicators that express natural disaster projects, I decided to classify disaster types into Volcano, Earthquake, Storm, Flood, Wildfire, Drought, Other meteorological disasters. Information and data on these disaster types are abundant. This will help me to better filter and express information later.
+  Then the most important thing is what type of intervention I would like to do. When I checked the information in the data, I found several indicators related to natural disasters, the number of deaths and the economic level of the region. If I directly use the data of the platform, I can start from these two aspects. But as far as I know, the number of victims has been analyzed in detail by researchers using the same data, and the economic level of regions needs to be compared within a larger range to have significant differences. In fact, these two topics are already frequent topics in news reports that people are more familiar with. After these reflections, I hope that I can make some breakthroughs in the type of intervention. So I decided to make a comparison of disaster prevention policies between regions. 
+  This will be based on the layer of information on the map showing all the disaster locations in the selected area. So next I will try to collect deeper policy information. Currently I know of Japan that has made special plans for urban development due to disasters. Because the frequency of earthquakes in Japan is very high. Are there other regions with similar situations and policies? This will be a very focused aspect in my final project. So now, my project will present at least three aspects of information: the distribution of different types of natural disasters, disaster-related information and local policies. This information will be presented in the form of mapping, which aims to: 1 draw attention to natural disasters and encourage them to participate in thinking and designing disaster prevention methods. 2 People in disaster-affected areas can use this map to find areas that have suffered similar disasters and learn about policies in different places.
