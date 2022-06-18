@@ -1,5 +1,8 @@
 # Mapping Natural Disasters
 
+“Nature is very powerful, bringing us happiness as well as misfortune.”
+
+
 ## Previous Mapping Efforts
 
 There are two main directions of exploration for mapping projects about global natural disasters. One is a natural disaster map as **a historical event map**, and the other is a natural disaster map as **a warning map**. 
@@ -9,6 +12,7 @@ The information presented by the first event map usually includes the number of 
 
 ### A Warning Map
 The second is an timely warning map. As can be seen from the name, the difference between it and the previous map is that the map displays disaster warnings, which are updated information in time, rather than how many disasters have occurred in this area in history. The direction of this kind of map is to provide some notifications for people who may be affected by the disaster, so that they can know the local situation in time and reduce losses.
+
 
 
 ## Mapping Plan and reflections
